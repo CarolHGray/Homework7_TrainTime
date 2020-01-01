@@ -1,0 +1,19 @@
+body {
+  background: url("../images/background.jpg");
+}
+
+.jumbotron {
+    min-height: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-size: cover;
+	background-size: cover;
+	background-color: sienna;
+	color: white
+	
+}
+
+h2 {
+	color: white;
+	
+}
