@@ -8,7 +8,10 @@ TrainTime provides up-to-date information about train schedules.  Arrival times 
 many minutes remain until the trains arrive at their stations are calculated using inputs provided by the user.
 Current time is also indicated in the header of the user site.
 
-Preview Site
+Preview Site:
+
+![alt text] (https://github.com/CarolHGray/Homework7_TrainTime/ScreenShotTrainTime.pdf)
+
 
 Built With
 * Moment.js
