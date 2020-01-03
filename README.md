@@ -10,7 +10,7 @@ Current time is also indicated in the header of the user site.
 
 Preview Site:
 
-![image](https://github.com/CarolHGray/Homework7_TrainTime/Screenshot%202-01-02%at%21.01.08.png)
+![image](https://github.com/CarolHGray/Homework7_TrainTime/blob/master/Screenshot%20-201-02%at%21.01.08.png)
 
 
 Built With
