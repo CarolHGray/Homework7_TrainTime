@@ -10,8 +10,7 @@ Current time is also indicated in the header of the user site.
 
 Preview Site:
 
-![alt text] (https://github.com/CarolHGray/Homework7_TrainTime/ScreenShotTrainTime.pdf)
-
+![alt text] (https://github.com/CarolHGray/Homework7_TrainTime/Screenshot 2020-01-02 at 21.01.08.png)
 
 Built With
 * Moment.js
